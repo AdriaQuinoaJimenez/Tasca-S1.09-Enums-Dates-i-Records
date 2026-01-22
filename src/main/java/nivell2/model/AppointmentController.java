@@ -1,6 +1,5 @@
 package nivell2.model;
 
-import java.sql.SQLOutput;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
