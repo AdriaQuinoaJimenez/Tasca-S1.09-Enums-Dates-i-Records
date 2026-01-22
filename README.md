@@ -1,4 +1,4 @@
-# Java IT Academy - Enums & Date API (Levels 1 & 2)
+# Tasca 09 - Enums , Date and Records 
 
 **Description**: A collection of practical exercises focused on writing cleaner, safer, and more modern Java code. The project covers the use of **Enums** for representing finite values with encapsulated behavior and the **Java Time API** (`java.time`) for robust temporal data manipulation without the pitfalls of the legacy Date class.
 
